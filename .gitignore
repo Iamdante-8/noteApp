@@ -1,0 +1,5 @@
+# Ignore the following files
+*.txt
+*.sqlite3
+*.md
+*.jpg
